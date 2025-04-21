@@ -24,5 +24,3 @@ function solution(A) {
 
   return maxNumber + 1;
 }
-
-console.log(solution([-1, -2, -3, 1, 2]));
