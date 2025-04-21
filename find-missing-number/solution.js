@@ -27,5 +27,3 @@ function solution(input) {
 
   return 'No missing numbers.';
 }
-
-console.log(solution([2, 3, 3, 5]));
