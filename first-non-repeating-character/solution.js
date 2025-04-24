@@ -21,5 +21,3 @@ function solution(string) {
 
   return 'None';
 }
-
-console.log(solution(''));
